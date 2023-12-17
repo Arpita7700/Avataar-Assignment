@@ -78,7 +78,8 @@ Build an engaging circular carousel that showcases featured items. Allow users t
 ### Step 1: Clone the Repository
 
 git clone https://github.com/Arpita7700/Avataar-Assignment.git
-cd <repository-directory>
+
+cd Avataar-Assignment
 ### Step 2: Install Dependencies
  npm install
 ### Step 3: Run the Development Server
